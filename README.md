@@ -1,5 +1,5 @@
 # 🚀 Kampanya Bütçe ve CPA Optimizasyon Projesi
-## Python Programlama Dersi Final Ödevi
+
 
 Bu uygulama, reklam kampanyalarınızın performans verilerini (Excel) analiz ederek, belirli kural setleri ve önceliklere göre bütçenizi en verimli şekilde dağıtmanıza yardımcı olur.
 
@@ -53,4 +53,4 @@ Uygulama arka planda aşağıdaki hiyerarşiyi takip eder:
 - `README.md`: Proje dökümantasyonu.
 
 ---
-**Geliştiren:** [Ekip İsmi]
+**Geliştiren:** [Atike KÜÇÜKVAROL]
