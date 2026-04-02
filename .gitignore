@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+.gradio/
+*.xlsx
+error_log.txt
